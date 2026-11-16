@@ -1,0 +1,4 @@
+AWS, Lambda, DynamoDB, S3, SQS, SNS, Kinesis, API Gateway, CloudFormation, CloudWatch, EventBridge, ECS, Fargate, ECR, RDS, Aurora, ALB, ELB, IAM, VPC, Route 53, CloudFront, Terraform, Kubernetes, GKE, Docker, Kafka, RabbitMQ, Redis, PostgreSQL, MongoDB, Neo4j, SQLite, Elasticsearch,
+event-driven architecture, eventual consistency, CAP theorem, sharding, replication, load balancer, rate limiting, idempotency, microservices, message queue, pub/sub, cache invalidation, horizontal scaling, latency, throughput, high availability,
+Python, FastAPI, Django, Flask, Scrapy, LangChain, pandas, NumPy, Hugging Face, PyTorch, TensorFlow, Node.js, TypeScript, React, Rust, Go, Solidity, GitHub Actions, CI/CD,
+LLM, RAG, embeddings, fine-tuning, LoRA, QLoRA, vector database, prompt engineering

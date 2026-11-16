@@ -1,0 +1,17 @@
+transcribed/*
+!transcribed/.gitkeep
+input/*
+!input/.gitkeep
+.venv/
+*.wav
+__pycache__/
+.env
+.env.*
+!.env.example
+*.m4a
+*.mp3
+*.mp4
+*.flac
+*.ogg
+*.zip
+*.srt
